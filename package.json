@@ -1,0 +1,8 @@
+{
+  "name": "kronos",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "shelljs": "^0.5.1"
+  }
+}
